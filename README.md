@@ -1,2 +1,2 @@
-# final-project-HTML-CSS
+# final project HTML/CSS
 Frontend school final project for HTML/CSS module
